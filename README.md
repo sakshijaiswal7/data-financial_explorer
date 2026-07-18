@@ -1,1 +1,1 @@
-# data-financial_explorer
+# Financial_Data_Explorer
